@@ -1,0 +1,7 @@
+<suite name="app1">
+ <test name="VerifyWeb">
+ <classes>
+ <class name="app1.VerifyWeb" />
+ </classes>
+ </test>
+</suite>
